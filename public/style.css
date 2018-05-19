@@ -5,3 +5,9 @@
 .subtitle {
 	text-align: center;
 }
+
+.optional {
+	font-style: italic;
+	color: gray;
+	font-size: 0.5 em;
+}

@@ -11,3 +11,15 @@
 	color: gray;
 	font-size: 0.5 em;
 }
+
+#secret-button {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	right: 0;
+	opacity: 0;
+}
+
+.hidden-notes {
+	display: none;
+}
